@@ -2,16 +2,21 @@ package com.fila;
 
 import org.omg.CORBA.NO_IMPLEMENT;
 
-public class Fila {
+public class Fila<T> {
 
-    private No refNoEntradaFila = null;
+    private No<T> refNoEntradaFila;
 
-    public void enqueue(No novoNo){
+    public Fila() {
+        this.refNoEntradaFila = null;
+    }
+
+    public void enqueue(T object){
+        No novoNo = new No(object);
         novoNo.setRefNo(refNoEntradaFila);
         refNoEntradaFila = novoNo;
     }
 
-    public No dequeue(){
+    public T dequeue(){
         if(!this.isEmpty()){
             No primeiroNo = refNoEntradaFila;
             No noAuxiliar = refNoEntradaFila;
@@ -24,12 +29,12 @@ public class Fila {
                     break;
                 }
             }
-            return primeiroNo;
+            return (T) primeiroNo.getObject();
         }
         return null;
     }
 
-    public No first(){
+    public T first(){
         if(!this.isEmpty()){
             No primeiroNo = refNoEntradaFila;
             while(true){
@@ -39,7 +44,7 @@ public class Fila {
                     break;
                 }
             }
-            return primeiroNo;
+            return (T) primeiroNo.getObject();
         }
         return null;
     }
