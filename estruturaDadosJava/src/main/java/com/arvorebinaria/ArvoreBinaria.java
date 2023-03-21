@@ -5,7 +5,7 @@ public class ArvoreBinaria<T extends Comparable<T>> {
     private BinNo<T> raiz;
 
     public ArvoreBinaria(){
-        this.raiz = null;
+        this.raiz = null;;
     }
 
     public void inserir(T conteudo){
