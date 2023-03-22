@@ -1,2 +1,4 @@
-package metodos.exercicios;public class Emprestimo {
+package metodos.exercicios;
+
+public class Emprestimo {
 }
