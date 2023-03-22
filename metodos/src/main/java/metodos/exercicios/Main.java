@@ -10,5 +10,18 @@ public class Main {
         Calculadora.multiplicacao(10,3);
         Calculadora.subtraicao(10,3);
         Calculadora.divisao(10,3);
+
+        //Mensagem
+       Mensagem.obterMensagem(1);
+       Mensagem.obterMensagem(13);
+       Mensagem.obterMensagem(20);
+       Mensagem.obterMensagem(9);
+
+       //Emprestimo
+       Emprestimo.calcular(1000, Emprestimo.getDuasParcelas());
+       Emprestimo.calcular(1000, Emprestimo.getTresParcelas());
+       Emprestimo.calcular(1000, 5);
+
+
     }
 }
