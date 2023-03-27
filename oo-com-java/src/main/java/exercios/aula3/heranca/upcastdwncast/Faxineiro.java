@@ -1,2 +1,4 @@
-package exercios.aula3.heranca.upcastdwncast;public class Faxineiro {
+package exercios.aula3.heranca.upcastdwncast;
+
+public class Faxineiro extends Funcionario{
 }

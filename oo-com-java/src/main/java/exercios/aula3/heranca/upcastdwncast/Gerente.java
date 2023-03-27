@@ -1,2 +1,4 @@
-package exercios.aula3.heranca.upcastdwncast;public class Gerente {
+package exercios.aula3.heranca.upcastdwncast;
+
+public class Gerente extends Funcionario{
 }

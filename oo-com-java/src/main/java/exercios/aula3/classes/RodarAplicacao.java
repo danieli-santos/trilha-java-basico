@@ -1,4 +1,4 @@
-package exercios.aula3;
+package exercios.aula3.classes;
 
 public class RodarAplicacao {
 

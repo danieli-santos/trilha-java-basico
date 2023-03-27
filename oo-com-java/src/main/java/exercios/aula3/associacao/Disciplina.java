@@ -1,2 +1,6 @@
-package exercios.aula3.associacao;public class Disciplina {
+package exercios.aula3.associacao;
+
+public class Disciplina {
+
+    Aluno aluno;
 }

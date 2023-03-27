@@ -1,2 +1,7 @@
-package exercios.aula3.associacao;public class Pessoa {
+package exercios.aula3.associacao;
+
+public class Pessoa {
+
+    Endereco endereco;
+
 }
