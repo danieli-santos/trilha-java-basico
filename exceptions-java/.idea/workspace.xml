@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91162263-4718-4a17-96ba-5a631367a057" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/list/ComparatorCor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/list/ComparatorCor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/list/ComparatorIdade.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/list/ComparatorIdade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/list/ComparatorNomeCorIdade.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/list/ComparatorNomeCorIdade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/list/ExemploList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/list/ExemploList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/list/ExemploOrdenacaoList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/list/ExemploOrdenacaoList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/list/ExemploOrdenacaoList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/list/ExemploOrdenacaoList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/list/Gato.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/list/Gato.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/map/ComparatorPaginas.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/map/ComparatorPaginas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/map/ExemploMap$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/map/ExemploMap$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/map/ExemploMap$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/map/ExemploMap$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/map/ExemploMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/map/ExemploMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/map/ExemploOrdenacaoMap$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/map/ExemploOrdenacaoMap$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/map/ExemploOrdenacaoMap$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/map/ExemploOrdenacaoMap$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/map/ExemploOrdenacaoMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/map/ExemploOrdenacaoMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/map/Livro$ComparatorNome.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/map/Livro$ComparatorNome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/map/Livro.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/map/Livro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/set/ComparatoNomeGeneroTempoEpisodio.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/set/ComparatoNomeGeneroTempoEpisodio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/set/ExemploOrdenacaoSet$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/set/ExemploOrdenacaoSet$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/set/ExemploOrdenacaoSet$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/set/ExemploOrdenacaoSet$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/set/ExemploOrdenacaoSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/set/ExemploOrdenacaoSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/set/ExemploSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/set/ExemploSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/set/Serie.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/set/Serie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/streamAPI/Contato.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/streamAPI/Contato.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/streamAPI/ExerciciosStreamAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/streamAPI/ExerciciosStreamAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/streamAPI/RefatoracaoOrdenacaoMap$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/streamAPI/RefatoracaoOrdenacaoMap$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/streamAPI/RefatoracaoOrdenacaoMap$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/streamAPI/RefatoracaoOrdenacaoMap$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-Java/target/classes/collection/streamAPI/RefatoracaoOrdenacaoMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-Java/target/classes/collection/streamAPI/RefatoracaoOrdenacaoMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../debugging-java/target/classes/debbunging/CalculadoraDeMedias.class" beforeDir="false" afterPath="$PROJECT_DIR$/../debugging-java/target/classes/debbunging/CalculadoraDeMedias.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../debugging-java/target/classes/debbunging/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../debugging-java/target/classes/debbunging/Main.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2OKxKxT11zL8kZ5jIcc6TAF65CC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/Java/trilha-java-basico/exceptions-java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91162263-4718-4a17-96ba-5a631367a057" name="Changes" comment="" />
+      <created>1681323016951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681323016951</updated>
+    </task>
+    <servers />
+  </component>
+</project>
